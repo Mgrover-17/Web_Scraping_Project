@@ -1,0 +1,1 @@
+Web scraping App where you can paste Amazon product link and get all the important details about that product and inCase you want any kind of Notification via Email for that products, You can use track option buy providing your mail
